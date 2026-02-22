@@ -15,6 +15,7 @@ Currently preparing for internships while strengthening both my frontend and bac
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dipanjandas2758@gmail.com](mailto:dipanjandas2758@gmail.com)
 * 🧠  I'm currently learning Improving existing projects ,DSA practice, Strengthening fundamentals
+* 🚀  I'm currently working on [house-renting-sytem](https://github.com/DipanjanDas27/House-Renting-System)
 * 👥  I'm looking to collaborate on Fullstack web projects , Backend APIs
 * 💬  Ask me about I prefer building complete projects end-to-end and learning through implementation.
 
